@@ -24,6 +24,8 @@
 				<string>#3D3D3D</string>
 				<key>selection</key>
 				<string>#9D550F</string>
+				<key>selectionForeground</key>
+				<string>#fffff8</string>
 				<key>bracketsForeground</key>
 				<string>#F8F8F2A5</string>
 				<key>bracketsOptions</key>
